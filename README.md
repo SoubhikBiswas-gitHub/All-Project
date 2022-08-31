@@ -5,12 +5,15 @@ This is the main repository for all of the projects done in the building session
 
 |  Date  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 1st Aug '22  | [Play-with-Hover](https://github.com/SoubhikBiswas-gitHub/Play-with-Hover) | [Live Demo](https://soubhikbiswas-github.github.io/Play-with-Hover/d)|     
-| 2nd Aug '22  | [Funny PiZZaOrDER](https://github.com/SoubhikBiswas-gitHub/PiZZaOrDER)   | [Live Demo](https://soubhikbiswas-github.github.io/PiZZaOrDER/) | 
-| 2nd Aug '22  | [color-snippet](https://github.com/SoubhikBiswas-gitHub/color-snippet) | [Live Demo](https://soubhikbiswas-github.github.io/color-snippet/) | 
-| 3nd Aug '22  | [NewUser_FormValidation](https://github.com/SoubhikBiswas-gitHub/NewUser_FormValidation)| [Live Demo](https://soubhikbiswas-github.github.io/NewUser_FormValidation/)  |
-| 2nd Aug '22  | [Landing Page Gym-Website](https://github.com/SoubhikBiswas-gitHub/Gym-Website)| [Live Demo](https://soubhikbiswas-github.github.io/Gym-Website/)|  
-| 2nd Aug '22  | [India-Tour](https://github.com/SoubhikBiswas-gitHub/India-Tour)| [Live Demo](https://soubhikbiswas-github.github.io/India-Tour/)  |
+| 28th Aug '22  | [OrderManagentSystem--V2](https://github.com/SoubhikBiswas-gitHub/OrderManagentSystem--V2) | [Live Demo](https://soubhikbiswas-github.github.io/OrderManagentSystem--V2/)|
+| 24th Aug '22  | [OrderManagentSystem--V1](https://github.com/SoubhikBiswas-gitHub/OrderManagementSatus--V1) | [Live Demo]( https://soubhikbiswas-github.github.io/OrderManagementSatus--V1/)|
+| 20th Aug '22  | [LogIn SignUp Page](https://github.com/SoubhikBiswas-gitHub/LogIn_SignUp_Page) | [Live Demo]( https://soubhikbiswas-github.github.io/LogIn_SignUp_Page/)|
+| 18th Aug '22  | [Validation Form](https://github.com/SoubhikBiswas-gitHub/validationForm) | [Live Demo](https://soubhikbiswas-github.github.io/validationForm/)|
+| 11th Apr '22  | [Color Snippet](https://github.com/SoubhikBiswas-gitHub/color-snippet) | [Live Demo](https://soubhikbiswas-github.github.io/color-snippet/)| 
+| 20th Mar '22  | [Play with Hover](https://github.com/SoubhikBiswas-gitHub/Play-with-Hover) | [Live Demo](https://soubhikbiswas-github.github.io/Play-with-Hover/)| 
+| 9th Mar '22  | [India Tour](https://github.com/SoubhikBiswas-gitHub/India-Tour) | [Live Demo](https://soubhikbiswas-github.github.io/India-Tour/)| 
+| 12th Feb '22  | [Gym Website](https://github.com/SoubhikBiswas-gitHub/Gym-Website) | [Live Demo](https://soubhikbiswas-github.github.io/Gym-Website/)|     
+
 
 ## Acknowledgements
 
