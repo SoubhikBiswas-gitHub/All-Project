@@ -5,6 +5,7 @@ This is the main repository for all of the projects done in the building session
 
 |  Date  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 28th Aug '22  | [CloudFood](https://github.com/SoubhikBiswas-gitHub/CloudFood) | [Live Demo](https://soubhikbiswas-github.github.io/CloudFood/)|
 | 28th Aug '22  | [OrderManagentSystem--V2](https://github.com/SoubhikBiswas-gitHub/OrderManagentSystem--V2) | [Live Demo](https://soubhikbiswas-github.github.io/OrderManagentSystem--V2/)|
 | 24th Aug '22  | [OrderManagentSystem--V1](https://github.com/SoubhikBiswas-gitHub/OrderManagementSatus--V1) | [Live Demo]( https://soubhikbiswas-github.github.io/OrderManagementSatus--V1/)|
 | 20th Aug '22  | [LogIn SignUp Page](https://github.com/SoubhikBiswas-gitHub/LogIn_SignUp_Page) | [Live Demo]( https://soubhikbiswas-github.github.io/LogIn_SignUp_Page/)|
